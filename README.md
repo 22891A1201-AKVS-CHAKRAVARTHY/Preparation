@@ -30,58 +30,7 @@ Hands-on projects and concept implementations covering:
 |---|---|
 | **Frontend** | HTML, CSS, JavaScript, Responsive Design |
 | **Backend** | Node.js, REST APIs, Databases |
-| **Frameworks** | React.js, Express.js |
-
----
-
-## 🗂️ Repository Structure
-
-```
-Preparation/
-├── DSA/
-│   ├── Arrays/
-│   ├── LinkedLists/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── DynamicProgramming/
-│   └── ...
-└── WebDev/
-    ├── HTML-CSS/
-    ├── JavaScript/
-    ├── React/
-    └── ...
-```
-
----
-
-## 🛠️ How to Use
-
-1. **Clone the repository**
-   ```bash
-   # HTTPS
-   git clone https://github.com/22891A1201-AKVS-CHAKRAVARTHY/Preparation.git
-   # SSH
-   git clone git@github.com:22891A1201-AKVS-CHAKRAVARTHY/Preparation.git
-   cd Preparation
-   ```
-
-2. **Navigate to a topic**
-   ```bash
-   cd DSA/Arrays
-   ```
-
-3. **Run a program** (example for Java/Python/C++)
-   ```bash
-   # Java
-   javac filename.java && java filename
-
-   # Python
-   python3 filename.py
-
-   # C++
-   g++ -o output filename.cpp && ./output
-   ```
-
+| **Frameworks** | Next.js, React.js, Express.js |
 ---
 
 ## 🎯 Goals
